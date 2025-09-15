@@ -1,4 +1,4 @@
-# FishSimGTG
+# FishSimDoc
 
 This repository contains documentation for the R package **fishSimGTG**.
 
